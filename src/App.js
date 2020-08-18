@@ -49,7 +49,7 @@ const classes=useStyles();
   <h1  style={{textAlign: 'center'}}>Find all the latest news or find the news based on different terms or from different sources or based on categories.</h1>
       <NewsCards articles={newsArticles} activeArticle={activeArticle} />
       <div style={{textAlign: 'center'}}>
-        <h3>Developed by:- <a href="https://abhiseksinha23.github.io/portfolio/" target="_blank"><span style={{fontSize:26}}>ABHISEK KUMAR</span></a> | &#169;2020 | All rights reversed |
+        <h3>Developed by:- <a href="https://abhiseksinha23.github.io/portfolio/" target="_blank"><span style={{fontSize:26}}>ABHISEK KUMAR</span></a> | &#169;2020 | All rights reserved |
 
         </h3>
       </div>
