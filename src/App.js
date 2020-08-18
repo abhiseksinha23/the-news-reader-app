@@ -46,7 +46,8 @@ const classes=useStyles();
       <div className={classes.logoContainer}>
         <h1 style={{fontSize:30}}><u>THE NEWS READER - An AI based web application</u></h1>
       </div>
-  <h1  style={{textAlign: 'center'}}>Find all the latest news or find the news based on different terms or from different sources or based on categories.</h1>
+   <h2  style={{textAlign: 'center'}}>It reads the headline as well as works on instructions of our voice..</h2>
+  <h2  style={{textAlign: 'center'}}>Find all the latest news or find the news based on different terms or from different sources or based on categories.</h2>
       <NewsCards articles={newsArticles} activeArticle={activeArticle} />
       <div style={{textAlign: 'center'}}>
         <h3>Developed by:- <a href="https://abhiseksinha23.github.io/portfolio/" target="_blank"><span style={{fontSize:23}}>ABHISEK KUMAR</span></a> | &#169;2020 | All rights reserved |
