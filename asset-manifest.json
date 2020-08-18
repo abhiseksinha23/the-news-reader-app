@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/the-news-reader-app/static/css/main.f8ed9f92.chunk.css",
+    "main.js": "/the-news-reader-app/static/js/main.164db8f5.chunk.js",
+    "main.js.map": "/the-news-reader-app/static/js/main.164db8f5.chunk.js.map",
+    "runtime-main.js": "/the-news-reader-app/static/js/runtime-main.066b5ce1.js",
+    "runtime-main.js.map": "/the-news-reader-app/static/js/runtime-main.066b5ce1.js.map",
+    "static/js/2.5a21008a.chunk.js": "/the-news-reader-app/static/js/2.5a21008a.chunk.js",
+    "static/js/2.5a21008a.chunk.js.map": "/the-news-reader-app/static/js/2.5a21008a.chunk.js.map",
+    "index.html": "/the-news-reader-app/index.html",
+    "precache-manifest.fccd1431c9ae765f13e03335f5aa04f1.js": "/the-news-reader-app/precache-manifest.fccd1431c9ae765f13e03335f5aa04f1.js",
+    "service-worker.js": "/the-news-reader-app/service-worker.js",
+    "static/css/main.f8ed9f92.chunk.css.map": "/the-news-reader-app/static/css/main.f8ed9f92.chunk.css.map",
+    "static/js/2.5a21008a.chunk.js.LICENSE.txt": "/the-news-reader-app/static/js/2.5a21008a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.066b5ce1.js",
+    "static/js/2.5a21008a.chunk.js",
+    "static/css/main.f8ed9f92.chunk.css",
+    "static/js/main.164db8f5.chunk.js"
+  ]
+}
