@@ -1,3 +1,5 @@
+Link: - https://abhiseksinha23.github.io/the-news-reader-app/
+
 This a news reading application based on artificial intelligence. It helps users to find news using voice search based on different topics,categories or sources. It reads the headlines for the users and helps to nevigate the user to open and read any particular article/news. It can also have a small general conversation with the users.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
